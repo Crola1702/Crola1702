@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Cristóbal Arroyo.
-I'm currently a Systems Engineering student at Universidad de los Andes in Colombia
+I'm currently a Computer Engineering student at Universidad de los Andes in Colombia
 
 Here are some facts about me:
 
